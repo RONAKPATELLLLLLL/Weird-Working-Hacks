@@ -1,6 +1,9 @@
 # WeirdWorkingHacks
 The best Hacks for everything out there
 
+DO NOT EDIT, OR ELSE!!
+PLZ
+
 How to Use:
 
 1. Click on the hacks you want
