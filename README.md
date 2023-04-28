@@ -195,25 +195,3 @@ The mobile GUI is the original GUI I made long ago. Some people said it worked o
 
 [^1]: [Overtime](https://github.com/overtimepog)
 
-
-# How to install the bookmark cheats
-
-
-
-1. Copy the entire thing using the two boxes looking things in the corner of the bar above the code
-
-2. Click the two boxes and it will become a checkmark
-
-3. Go up to the bookmark star
-
-4. Click on it
-
-5. Go to More...
-
-6. Go to URL
-
-7. Paste it there
-
-8. Press Save
-
-9. You're done!
