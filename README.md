@@ -6,6 +6,8 @@ PLEASE
 
 Hacks For everything you Need Them For 
 
+<p align="center">Blooket Cheats</p>
+
 <p align="center">Cheats made by someone who knows more about what they're doing</p>
 <h3 align="center"><a href="https://github.com/RONAKPATELLLLLLL/WeirdWorkingHacks/tree/main/Tutorials/Blooket%20Cheats">Instructions for importing bookmarklets</a></h2>
 
