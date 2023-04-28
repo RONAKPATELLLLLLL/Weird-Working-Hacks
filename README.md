@@ -22,7 +22,7 @@ Hacks For everything you Need Them For
 <details><summary><h3>How to use</h3></summary>
 
 There are 3 good methods to using these scripts:
-1. Importing one of the Bookmarklets.html files using [these instructions](https://github.com/Minesraft2/Blooket-Cheats/blob/main/tutorial/readme.md)
+1. Importing one of the Bookmarklets.html files using [these instructions](https://github.com/RONAKPATELLLLLLL/WeirdWorkingHacks/tree/main/Tutorials/Blooket%20Cheats)
 2. Going to the [GitHub pages site](https://minesraft2.github.io/Blooket-Cheats), choosing a gamemode, then dragging a cheat to your bookmarks bar or clicking one to copy the script
 3. Copying a script and running it in the inspect element console
 </details>
