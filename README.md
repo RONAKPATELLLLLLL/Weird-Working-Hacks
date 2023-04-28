@@ -34,7 +34,7 @@ We don't actually know what to do about this or how to fix it, sorry.
 
 <details><summary><h3>(script) is not working?</h3></summary>
 
-Make sure you're running it properly (see [How to use](https://github.com/Minesraft2/Blooket-Cheats#how-to-use)), if it still doesn't work and other cheats do, then [make an issue](https://github.com/Minesraft2/Blooket-Cheats/issues)
+Make sure you're running it properly, if it still doesn't work and other cheats do, then make an issue
 </details>
 
 <details><summary><h3>What is the difference between obfuscated and unobfuscated?</h3></summary>
@@ -71,10 +71,10 @@ The mobile GUI is the original GUI I made long ago. Some people said it worked o
 
 <details><summary><h2>List of Cheats</h2></summary>
 
-* [GUI](unobfuscated/gui.js)
-* [Mobile GUI](unobfuscated/mobileGui.js)
-### [Monster Brawl](unobfuscated/brawl)
-* [Double Enemy XP](unobfuscated/brawl/doubleEnemyXp.js)
+* [GUI]
+* [Mobile GUI]
+### [Monster Brawl]
+* [Double Enemy XP]
 * [Half Enemy Speed](unobfuscated/brawl/halfEnemySpeed.js)
 * [Instant Kill](unobfuscated/brawl/instantKill.js)
 * [Invincibility](unobfuscated/brawl/invincibility.js)
