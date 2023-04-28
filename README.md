@@ -75,125 +75,122 @@ The mobile GUI is the original GUI I made long ago. Some people said it worked o
 * [Mobile GUI]
 ### [Monster Brawl]
 * [Double Enemy XP]
-* [Half Enemy Speed](unobfuscated/brawl/halfEnemySpeed.js)
-* [Instant Kill](unobfuscated/brawl/instantKill.js)
-* [Invincibility](unobfuscated/brawl/invincibility.js)
-* [Kill Enemies](unobfuscated/brawl/killEnemies.js)
-* [Magnet](unobfuscated/brawl/magnet.js)
-* [Max Current Abilities](unobfuscated/brawl/maxCurrentAbilities.js)
-* [Next Level](unobfuscated/brawl/nextLevel.js)
-* [Remove Obstacles](unobfuscated/brawl/removeObstacles.js)
-* [Reset Health](unobfuscated/brawl/resetHealth.js)
-### [Cafe](unobfuscated/cafe)
-* [Max Items](unobfuscated/cafe/maxItems.js)
-* [Remove Customers](unobfuscated/cafe/removeCustomers.js)
-* [Reset Abilities](unobfuscated/cafe/resetAbilities.js)
-* [Set Cash](unobfuscated/cafe/setCash.js)
-* [Stock Food](unobfuscated/cafe/stockFood.js)
-### [Crypto Hack](unobfuscated/crypto)
-* [Always Triple](unobfuscated/crypto/alwaysTriple.js)
-* [Auto Guess](unobfuscated/crypto/autoGuess.js)
-* [Choice ESP](unobfuscated/crypto/choiceESP.js)
-* [Password ESP](unobfuscated/crypto/passwordESP.js)
-* [Remove Hack](unobfuscated/crypto/removeHack.js)
-* [Set Crypto](unobfuscated/crypto/setCrypto.js)
-* [Set Password](unobfuscated/crypto/setPassword.js)
-* [Steal Players Crypto](unobfuscated/crypto/stealPlayersCrypto.js)
-### [Deceptive Dinos](unobfuscated/dinos)
-* [Auto Choose](unobfuscated/dinos/autoChoose.js)
-* [Rock ESP](unobfuscated/dinos/rockESP.js)
-* [Set Fossils](unobfuscated/dinos/setFossils.js)
-* [Set Multiplier](unobfuscated/dinos/setMultiplier.js)
-* [Stop Cheating](unobfuscated/dinos/stopCheating.js)
-### [Tower of Doom](unobfuscated/doom)
-* [Fill Deck](unobfuscated/doom/fillDeck.js)
-* [Max Cards](unobfuscated/doom/maxCards.js)
-* [Max Health](unobfuscated/doom/maxHealth.js)
-* [Max Stats](unobfuscated/doom/maxStats.js)
-* [Min Enemy](unobfuscated/doom/minEnemy.js)
-* [Set Coins](unobfuscated/doom/setCoins.js)
-### [Factory](unobfuscated/factory)
-* [Choose Blook](unobfuscated/factory/chooseBlook.js)
-* [Free Upgrades](unobfuscated/factory/freeUpgrades.js)
-* [Max Blooks](unobfuscated/factory/maxBlooks.js)
-* [Remove Glitches](unobfuscated/factory/removeGlitches.js)
-* [Send Glitch](unobfuscated/factory/sendGlitch.js)
-* [Set All Mega Bot](unobfuscated/factory/setAllMegaBot.js)
-* [Set Cash](unobfuscated/factory/setCash.js)
-### [Fishing Frenzy](unobfuscated/fishing)
-* [Frenzy](unobfuscated/fishing/frenzy.js)
-* [Remove Distraction](unobfuscated/fishing/removeDistraction.js)
-* [Send Distraction](unobfuscated/fishing/sendDistraction.js)
-* [Set Lure](unobfuscated/fishing/setLure.js)
-* [Set Weight](unobfuscated/fishing/setWeight.js)
-### [Flappy Blook](unobfuscated/flappy)
-* [Set Score](unobfuscated/flappy/setScore.js)
-* [Toggle Ghost](unobfuscated/flappy/toggleGhost.js)
-### [Global](unobfuscated/global)
-* [Anti Flood Game](unobfuscated/global/antiFloodGame.js)
-* [Auto Answer](unobfuscated/global/autoAnswer.js)
-* [Auto Sell Dupes On Open](unobfuscated/global/autoSellDupesOnOpen.js)
-* [Every Answer Correct](unobfuscated/global/everyAnswerCorrect.js)
-* [Flood Game](unobfuscated/global/floodGame.js)
-* [Get Daily Rewards](unobfuscated/global/getDailyRewards.js)
-* [Highlight Answers](unobfuscated/global/highlightAnswers.js)
-* [Prevent Suspension](unobfuscated/global/preventSuspension.js)
-* [Remove Random Name](unobfuscated/global/removeRandomName.js)
-* [Sell Cheap Duplicates](unobfuscated/global/sellCheapDuplicates.js)
-* [Sell Duplicate Blooks](unobfuscated/global/sellDuplicateBlooks.js)
-* [Simulate Pack](unobfuscated/global/simulatePack.js.js)
-* [Simulate Unlock](unobfuscated/global/simulateUnlock.js)
-* [Spam Buy Blooks](unobfuscated/global/spamBuyBlooks.js)
-* [Unlock Plus Gamemodes](unobfuscated/global/unlockPlusGamemodes.js)
-* [Use Any Blook](unobfuscated/global/useAnyBlook.js)
-#### [Intervals](unobfuscated/global/intervals)
-* [Auto Answer](unobfuscated/global/intervals/autoAnswer.js)
-* [Highlight Answers](unobfuscated/global/intervals/highlightAnswers.js)
-### [Gold Quest](unobfuscated/gold)
-* [Always Triple](unobfuscated/gold/alwaysTriple.js)
-* [Auto Choose](unobfuscated/gold/autoChoose.js)
-* [Chest ESP](unobfuscated/gold/chestESP.js)
-* [Reset All Gold](unobfuscated/gold/resetAllGold.js)
-* [Reset Players Gold](unobfuscated/gold/resetPlayersGold.js)
-* [Set Gold](unobfuscated/gold/setGold.js)
-* [Swap Gold](unobfuscated/gold/swapGold.js)
-### [Crazy Kingdom](unobfuscated/kingdom)
-* [Choice ESP](unobfuscated/kingdom/choiceESP.js)
-* [Choice ESP Loop](unobfuscated/kingdom/choiceESPLoop.js)
-* [Disable Toucan](unobfuscated/kingdom/disableToucan.js)
-* [Max Stats](unobfuscated/kingdom/maxStats.js)
-* [Set Guests](unobfuscated/kingdom/setGuests.js)
-* [Skip Guest](unobfuscated/kingdom/skipGuest.js)
-### [Racing](unobfuscated/racing)
-* [Instant Win](unobfuscated/racing/instantWin.js)
-### [Battle Royale](unobfuscated/royale)
-* [Auto Answer](unobfuscated/royale/autoAnswer.js)
-#### [Intervals](unobfuscated/royale/intervals)
-* [Auto Answer](unobfuscated/royale/intervals/autoAnswer.js)
-### [Blook Rush](unobfuscated/rush)
-* [Set Blooks](unobfuscated/rush/setBlooks.js)
-* [Set Defense](unobfuscated/rush/setDefense.js)
-### [Tower Defense](unobfuscated/tower-defense)
-* [Earthquake](unobfuscated/tower-defense/earthquake.js)
-* [Max Towers](unobfuscated/tower-defense/maxTowers.js)
-* [Remove Ducks](unobfuscated/tower-defense/removeDucks.js)
-* [Remove Enemies](unobfuscated/tower-defense/removeEnemies.js)
-* [Remove Obsticles](unobfuscated/tower-defense/removeObsticles.js)
-* [Set Damage](unobfuscated/tower-defense/setDmg.js)
-* [Set Round](unobfuscated/tower-defense/setRound.js)
-* [Set Tokens](unobfuscated/tower-defense/setTokens.js)
-### [Tower Defense 2](unobfuscated/tower-defense-2)
-* [Max Towers](unobfuscated/tower-defense-2/maxTowers.js)
-* [Remove Enemies](unobfuscated/tower-defense-2/removeEnemies.js)
-* [Set Coins](unobfuscated/tower-defense-2/setCoins.js)
-* [Set Health](unobfuscated/tower-defense-2/setHealth.js)
-* [Set Round](unobfuscated/tower-defense-2/setRound.js)
-### [Santa's Workshop](unobfuscated/workshop)
-* [Remove Distractions](unobfuscated/workshop/removeDistractions.js)
-* [Send Distraction](unobfuscated/workshop/sendDistraction.js)
-* [Set Toys](unobfuscated/workshop/setToys.js)
-* [Set Toys Per Question](unobfuscated/workshop/setToysPerQ.js)
-* [Swap Toys](unobfuscated/workshop/swapToys.js)
+* [Half Enemy Speed]
+* [Instant Kill]
+* [Invincibility]
+* [Kill Enemies]
+* [Magnet]
+* [Max Current Abilities]
+* [Next Level]
+* [Remove Obstacles]
+* [Reset Health]
+### [Cafe]
+* [Max Items]
+* [Remove Customers]
+* [Reset Abilities]
+* [Set Cash]
+* [Stock Food]
+### [Crypto Hack]
+* [Always Triple]
+* [Auto Guess] 
+* [Choice ESP]
+* [Password ESP]
+* [Remove Hack]
+* [Set Crypto]
+* [Set Password]
+* [Steal Players Crypto]
+### [Deceptive Dinos]
+* [Auto Choose]
+* [Rock ESP]
+* [Set Fossils]
+* [Set Multiplier]
+* [Stop Cheating]
+### [Tower of Doom]
+* [Fill Deck]
+* [Max Cards]
+* [Max Health]
+* [Max Stats]
+* [Min Enemy]
+* [Set Coins]
+### [Factory]
+* [Choose Blook]
+* [Max Blooks]
+* [Remove Glitches]
+* [Send Glitch]
+* [Set All Mega Bot]
+* [Set Cash]
+### [Fishing Frenzy]
+* [Frenzy]
+* [Remove Distraction]
+* [Send Distraction]
+* [Set Lure]
+* [Set Weight]
+### [Flappy Blook]
+* [Set Score]
+* [Toggle Ghost]
+### [Global]
+* [Anti Flood Game]
+* [Auto Answer]
+* [Auto Sell Dupes On Open]
+* [Every Answer Correct]
+* [Flood Game]
+* [Get Daily Rewards]
+* [Highlight Answers]
+* [Prevent Suspension]
+* [Remove Random Name]
+* [Sell Cheap Duplicates]
+* [Sell Duplicate Blooks]
+* [Simulate Pack]
+* [Simulate Unlock]
+* [Spam Buy Blooks]
+* [Unlock Plus Gamemodes]
+* [Use Any Blook]
+#### [Intervals]
+* [Auto Answer]
+* [Highlight Answers]
+### [Gold Quest]
+* [Always Triple]
+* [Auto Choose]
+* [Chest ESP]
+* [Reset All Gold]
+* [Reset Players Gold]
+* [Set Gold]
+* [Swap Gold]
+### [Crazy Kingdom]
+* [Choice ESP]
+* [Choice ESP Loop]
+* [Disable Toucan]
+* [Max Stats]
+* [Set Guests]
+* [Skip Guest]
+### [Battle Royale]
+* [Auto Answer]
+#### [Intervals]
+* [Auto Answer]
+### [Blook Rush]
+* [Set Blooks]
+* [Set Defense]
+### [Tower Defense]
+* [Earthquake]
+* [Max Towers]
+* [Remove Ducks]
+* [Remove Enemies]
+* [Remove Obsticles]
+* [Set Damage]
+* [Set Round]
+* [Set Tokens]
+### [Tower Defense 2]
+* [Max Towers]
+* [Remove Enemies]
+* [Set Coins]
+* [Set Health]
+* [Set Round]
+### [Santa's Workshop]
+* [Remove Distractions]
+* [Send Distraction]
+* [Set Toys]
+* [Set Toys Per Question]
+* [Swap Toys]
 </details>
 
 [^1]: [Overtime](https://github.com/overtimepog)
@@ -203,9 +200,9 @@ The mobile GUI is the original GUI I made long ago. Some people said it worked o
 
 
 
-1. Copy the entire thing using the two box looking things in the corner
+1. Copy the entire thing using the two boxes looking things in the corner of the bar above the code
 
-2. Click it and it will become a checkmark
+2. Click the two boxes and it will become a checkmark
 
 3. Go up to the bookmark star
 
