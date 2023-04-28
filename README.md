@@ -6,18 +6,7 @@ PLEASE
 
 #Hacks For everything you Need Them For 
 
-How to Use:
-
-1. Click on the hacks you want
-
-2. Go to the How to Use for those hacks
-
-3. Click on the How to Use
-
-4. Follow the instructions exactly
 <p align="center">Cheats made by someone who knows more about what they're doing</p>
-<h2 align="center">Check out the <a href="https://github.com/Minesraft2/Blooket-Cheats/tree/content">content branch</a> for more cheats</h2>
-<h3 align="center"><a href="https://discord.gg/QznzysxvX4">Support Server</a></h2>
 <h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets</a></h2>
 
 # Vision Board
@@ -67,11 +56,6 @@ I'll start making scripts for other games when the Blooket scripts stop needing 
 <details><summary><h3>Can you make more Battle Royale cheats</h3></summary>
 
 Battle Royale is a gamemode that works almost entirely on the host's end. The only thing we have control over is answering questions.
-</details>
-
-<details><summary><h3>Are you the same person as gliz?</h3></summary>
-
-No, I am not gliz. I'm a close friend who worked on the original Blooket cheats with him and took over after he got a cease and desist.
 </details>
 
 <details><summary><h3>How do I do this on mobile?</h3></summary>
