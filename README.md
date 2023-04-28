@@ -197,3 +197,21 @@ The mobile GUI is the original GUI I made long ago. Some people said it worked o
 </details>
 
 [^1]: [Overtime](https://github.com/overtimepog)
+
+Copy the entire thing using the two box looking things in the corner
+
+2. Click it and it will become a checkmark
+
+3. Go up to the bookmark star
+
+4. Click on it
+
+5. Go to More...
+
+6. Go to URL
+
+7. Paste it there
+
+8. Press Save
+
+9. You're done!
