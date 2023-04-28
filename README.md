@@ -4,10 +4,10 @@ The best Hacks for everything out there
 DO NOT EDIT, OR ELSE!!
 PLEASE
 
-#Hacks For everything you Need Them For 
+Hacks For everything you Need Them For 
 
 <p align="center">Cheats made by someone who knows more about what they're doing</p>
-<h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets</a></h2>
+<h3 align="center"><a href="https://github.com/RONAKPATELLLLLLL/WeirdWorkingHacks/tree/main/Tutorials/Blooket%20Cheats">Instructions for importing bookmarklets</a></h2>
 
 # Vision Board
 
