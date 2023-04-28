@@ -198,6 +198,11 @@ The mobile GUI is the original GUI I made long ago. Some people said it worked o
 
 [^1]: [Overtime](https://github.com/overtimepog)
 
+
+# How to install the bookmark cheats
+
+
+
 Copy the entire thing using the two box looking things in the corner
 
 2. Click it and it will become a checkmark
