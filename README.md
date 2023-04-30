@@ -6,7 +6,7 @@ PLEASE
 
 Hacks For everything you Need Them For 
 
-# I give full credit for the blooket and gimkit cheats to Aerell and TheLazySquid
+### I give full credit for the blooket and gimkit cheats to Aerell and TheLazySquid
 
 <p align="center">Blooket Cheats</p>
 
