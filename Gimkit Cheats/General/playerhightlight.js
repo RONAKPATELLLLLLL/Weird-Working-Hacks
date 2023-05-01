@@ -1,13 +1,21 @@
 (function() {
+    let binds = gc.hud.createGroup("Keybinds")
     let highlights = gc.hud.createGroup("Highlight")
 
     let highlightEnemies = false
-    highlights.addToggleBtn("Don't highlight enemies", "Highlight Enemies", (state) => {
+    let teamBtn = highlights.addToggleBtn("Don't highlight enemies", "Highlight Enemies", (state) => {
         highlightEnemies = state
     })
     let highlightTeammates = false
-    highlights.addToggleBtn("Don't highlight teammates", "Highlight Teammates", (state) => {
+    let enemyBtn = highlights.addToggleBtn("Don't highlight teammates", "Highlight Teammates", (state) => {
         highlightTeammates = state
+    })
+
+    binds.addKeybindSetter("Highlight Enemies", () => {
+        teamBtn.trigger()
+    })
+    binds.addKeybindSetter("Highlight Teammates", () => {
+        enemyBtn.trigger()
     })
         
     // create the overlay canvas
