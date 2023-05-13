@@ -1,6 +1,6 @@
 (function() {
 	if(!window.gc) return alert(`You need to set up the override to use this script. Find instructions here:
-	https://github.com/TheLazySquid/GimkitCheat#setting-up-the-overrides
+	https://github.com/RONAKPATELLLLLL/Weird-Working-Hacks#setting-up-the-overrides
 	If you have it set up, try reloading this page with the console open.`)
 
 	const upgradeOrder = [ // taken from https://github.com/Noble-Mushtak/Gimkit-Strategy/
