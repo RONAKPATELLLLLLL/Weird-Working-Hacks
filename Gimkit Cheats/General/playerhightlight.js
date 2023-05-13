@@ -3,11 +3,11 @@
     let highlights = gc.hud.createGroup("Highlight")
 
     let highlightEnemies = false
-    let teamBtn = highlights.addToggleBtn("Don't highlight enemies", "Highlight Enemies", (state) => {
+    let teamBtn = highlights.addToggleBtn("Don't Highlight Enemies", "Highlight Enemies", (state) => {
         highlightEnemies = state
     })
     let highlightTeammates = false
-    let enemyBtn = highlights.addToggleBtn("Don't highlight teammates", "Highlight Teammates", (state) => {
+    let enemyBtn = highlights.addToggleBtn("Don't Highlight Teammates", "Highlight Teammates", (state) => {
         highlightTeammates = state
     })
 
