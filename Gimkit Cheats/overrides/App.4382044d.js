@@ -2,14 +2,14 @@
     class Cheat {
         constructor() {
             this.hud = new GCHud()
-            this.version = "0.3.1"
+            this.version = "0.3.2"
             this.dev = true;
             
             this.loadCallbacks = []
             this.socket = null
             this.data = {}
 
-            console.log(`Gimkit Cheat Override v${this.version} loaded!`);
+            console.log(`Gimkit Cheats Override v${this.version} loaded!`);
             this.checkUpdate()
         }
         
