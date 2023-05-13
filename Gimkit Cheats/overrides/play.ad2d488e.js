@@ -1,8 +1,8 @@
 window.gc = window.gc || {
-	version: "0.1.0"
+	version: "0.3.2"
 };
 
-console.log(`Gimkit Cheat Override v${gc.version} loaded!`);
+console.log(`Gimkit Cheats Override v${gc.version} loaded!`);
 
 (function() {
     // check for an update to the script
@@ -18,7 +18,7 @@ console.log(`Gimkit Cheat Override v${gc.version} loaded!`);
             if(!script) return
             if(script.includes(`version: "${gc.version}"`)) return
             alert(`A new version of Gimkit Cheat Override is available! Some scripts may not run properly unless you update.
-            Instructions on how to update can be found here: https://github.com/TheLazySquid/GimkitCheat#updating-the-script`)
+            Instructions on how to update can be found here: https://github.com/RONAKPATELLLLLLL/Weird-Working-Hacks#updating-the-script`)
         })
     } catch (e) {
         // ignore errors
