@@ -4,7 +4,7 @@
     let freecamming = false
     let camHelper = stores.phaser.scene.cameraHelper
 
-    let cameraPos = {x: 1, y: 1}
+    let cameraPos = {x: 0, y: 0}
     
     let freeCamBtn = gc.hud.addToggleBtn("Stop Freecamming", "Freecam", (state) => {
         freecamming = state
