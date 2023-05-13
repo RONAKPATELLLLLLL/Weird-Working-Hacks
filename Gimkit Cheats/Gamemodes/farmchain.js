@@ -1,6 +1,6 @@
 (function() {
 	if(!window.gc) return alert(`You need to set up the override to use this script. Find instructions here:
-	https://github.com/TheLazySquid/GimkitCheat#setting-up-an-override
+	https://github.com/RONAKPATELLLLLLL/Wierd-Working-Hacks#setting-up-an-override
 	If you have it set up, try reloading this page with the console open.`)
 
 	let binds = gc.hud.createGroup("Keybinds")
