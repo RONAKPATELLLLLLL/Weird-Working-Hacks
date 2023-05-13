@@ -30,13 +30,13 @@
     }, false)
 
     // add keybinds
-    binds.addKeybindSetter("Buy Medpack", () => {
+    binds.addKeybindSetter("Buy MedPack", () => {
         medpackBtn.trigger()
     })
     binds.addKeybindSetter("Buy Shield Can", () => {
         shieldBtn.trigger()
     })
-    binds.addKeybindSetter("Auto Attack", () => {
+    binds.addKeybindSetter("Auto Attack Patched", () => {
         autoAttackBtn.trigger()
     })
 
