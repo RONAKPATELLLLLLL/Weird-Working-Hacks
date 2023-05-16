@@ -1,6 +1,6 @@
 /**
 * @license StewartPrivateLicense-2.0.1
-* Copyright (c) RONALPATELLLLLLL 2023
+* Copyright (c) RONAKPATELLLLLLL 2023
 *
 * You may not reproduce or distribute any code inside this file without the licenser's permission.
 * You may not copy, modify, steal, skid, or recreate any of the code inside this file.
@@ -18,8 +18,8 @@
     document.body.append(i);
     window.confirm = i.contentWindow.confirm.bind(window);
     i.remove();
-    Object.values(webpackJsonp.push([[], { ['']: (_, a, b) => { a.cache = b.c }, }, [['']]]).cache).find(x => x.exports?.a?.get).exports.a.get("https://" + (location.host.startsWith("dashboard") ? location.host + "/api/games" : "play.blooket.com/api/gamequestionsets") + "?gameId=6368436a976422d8a3f70cd7").then(x => parseInt(`0${x.data.questions.find(x => x.question == "../cheats/gui.js")?.answers?.[0]}`)).then(async x => {
-        if (1683246345408 > x || confirm("This cheat is outdated and might be bugged, would you still like to run it? You can find regularly updated cheats here https://github.com/Minesraft2/Blooket-Cheats")) {
+    Object.values(webpackJsonp.push([[], { ['']: (_, a, b) => { a.cache = b.c }, }, [['']]]).cache).find(x => x.exports?.a?.get).exports.a.get("https://" + (location.host.startsWith("dashboard") ? location.host + "/api/games" : "play.blooket.com/api/gamequestionsets") + "?gameId=6463eb271c035a26d2cfff8a").then(x => parseInt(`0${x.data.questions.find(x => x.question == "../cheats/gui.js")?.answers?.[0]}`)).then(async x => {
+        if (1684270001637 > x || confirm("This cheat is outdated and might be bugged, would you still like to run it? You can find regularly updated cheats here https://github.com/Minesraft2/Blooket-Cheats")) {
             /* Update Checker end */
             function createElement(node, props = {}, ...children) {
                 const element = document.createElement(node);
@@ -447,6 +447,13 @@
                             innerHTML: name
                         }));
                         button.dataset.description = description;
+                        button.onclick = (function ({ target, key }) {
+                            if (target != button && !target.classList.contains("cheatName") && !(key == "Enter" && target.classList.contains("cheatInput"))) return;
+                            let args = [...button.children].slice(1);
+                            run.apply(this, args.map(c => c.type == "number" ? parseInt("0" + c.value) : c.nodeName == "SELECT" ? JSON.parse(c.value) : (c.data || c.value)));
+                            if (type == "toggle") button.style.background = this.enabled ? "var(--enabledButton)" : "var(--disabledButton)";
+                            Cheats.alerts?.[0].addLog(`${type == "toggle" ? (this.enabled ? "Enabled" : "Disabled") : "Ran"} <strong>${this.name}</strong>${inputs?.length ? ` with inputs: (${args.map(c => c.nodeName == "SELECT" ? c.selectedOptions[0].innerText : c.value).join(", ")})` : ""}`, type == "toggle" ? (this.enabled ? "var(--enabledButton)" : "var(--disabledButton)") : null);
+                        }).bind(scripts[i]);
                         if (inputs?.length) for (let i = 0; i < inputs.length; i++) {
                             const { name, type, options: opts, min, max, value } = inputs[i];
                             let options;
@@ -487,16 +494,10 @@
                                 };
                                 input.placeholder = name;
                                 input.style.textAlign = "center";
+                                input.onkeyup = button.onclick;
                                 button.appendChild(input);
                             }
                         };
-                        button.onclick = (function ({ target }) {
-                            if (target != button && !target.classList.contains("cheatName")) return;
-                            let args = [...button.children].slice(1);
-                            run.apply(this, args.map(c => c.type == "number" ? parseInt("0" + c.value) : c.nodeName == "SELECT" ? JSON.parse(c.value) : (c.data || c.value)));
-                            if (type == "toggle") button.style.background = this.enabled ? "var(--enabledButton)" : "var(--disabledButton)";
-                            Cheats.alerts?.[0].addLog(`${type == "toggle" ? (this.enabled ? "Enabled" : "Disabled") : "Ran"} <strong>${this.name}</strong>${inputs?.length ? ` with inputs: (${args.map(c => c.nodeName == "SELECT" ? c.selectedOptions[0].innerText : c.value).join(", ")})` : ""}`, type == "toggle" ? (this.enabled ? "var(--enabledButton)" : "var(--disabledButton)") : null);
-                        }).bind(scripts[i]);
                         scripts[i].element = button;
                     }
                     cheats.appendChild(scripts[i].element);
