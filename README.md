@@ -1,7 +1,7 @@
 # WeirdWorkingHacks
 The best Hacks for everything out there
 
-# DON'T USE THE BLOOKET HACKS TILL I CAN FIX THEM PLEASE THANKS
+# Blooket Hacks fixed Thanks!
 
 DO NOT EDIT, OR ELSE!!
 PLEASE
