@@ -268,7 +268,7 @@ In order to update the overrides, simply redownload the overrides and replace th
 
 # Gimkit Cheat
 
-This version of Gimkit Cheat was inspired by Gimkit Utility by [UndercoverGoose](https://github.com/UndercoverGoose), which was sadly taken down. The main things that were carried over from the other script are using Typescript, Rollup and Tampermonkey, which makes it easier to develop and use. If you do want to try out the older versions, check out [v1 here](/v1) or [v2 here](/v2).
+This version of Gimkit Cheat was inspired by Gimkit Utility by [UndercoverGoose](https://github.com/UndercoverGoose), which was sadly taken down. The main things that were carried over from the other script are using Typescript, Rollup and Tampermonkey, which makes it easier to develop and use. If you do want to try out the older versions, check out v2.
 
 Install/Update it by clicking on [this link](https://raw.githubusercontent.com/TheLazySquid/GimkitCheat/main/build/bundle.user.js) while having [Tampermonkey](https://www.tampermonkey.net/) installed on your browser.
 
